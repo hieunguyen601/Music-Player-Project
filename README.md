@@ -7,10 +7,7 @@
     <img src="https://img.shields.io/github/issues/hieunguyen601/Music-Player-Project?style=for-the-badge&logo=github&logoColor=white&color=black&labelColor=black" alt="GitHub issues"/>
     <img src="https://img.shields.io/github/license/hieunguyen601/Music-Player-Project?style=for-the-badge&logo=github&logoColor=white&color=black&labelColor=black" alt="GitHub license"/>
   </div>
-  
-  <p style="font-size: 18px; color: #666; font-weight: 500; margin: 20px 0;">
-    No description provided.
-  </p>
+
 </div>
 
 ---
@@ -25,10 +22,6 @@
   🗓️ **Created:** 6/6/2025 | 🔄 **Last Updated:** 6/6/2025
   
 </div>
-
-## 📖 About
-
-No description provided.
 
 
 ## 📊 Repository Statistics
